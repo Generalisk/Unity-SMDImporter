@@ -1,0 +1,15 @@
+{
+  "name": "com.generalisk.importers.smd",
+  "version": "1.0.0-pre",
+  "displayName": "SMD Importer",
+  "description": "SMD Importer adds support for Valve's StudioMDL Data Files (SMD's). SMD's are the raw, uncompiled data files used in Valve's Source Engine that contains the 3-dimensional data of A mesh. SMD Importer allows you to directly drag and drop these files into Unity without having to import them into A 3D modelling software beforehand so you can convert them into A file format supported by Unity, which can be A tedious & time-consuming task depending on the model in question.",
+  "author": {
+    "name": "Generalisk",
+    "url": "https://generalisk.com/",
+    "email": "contact@generalisk.com"
+  },
+  "unity": "6000.0",
+  "license": "LICENSE",
+  "licensesUrl": "https://github.com/Generalisk/Unity-SMDImporter/tree/main/LICENSE",
+  "changelogUrl": "https://github.com/Generalisk/Unity-SMDImporter/releases"
+}
