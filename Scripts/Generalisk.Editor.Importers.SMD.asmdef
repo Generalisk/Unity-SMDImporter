@@ -1,5 +1,5 @@
 {
-    "name": "Generalisk.Importers.SMD",
+    "name": "Generalisk.Editor.Importers.SMD",
     "rootNamespace": "Generalisk.Editor.Importers.SMD",
     "references": [],
     "includePlatforms": [
